@@ -368,3 +368,4 @@ Ctrl + Q Align selected paragraph to the left
 Ctrl + E Align selected
 
 
+
