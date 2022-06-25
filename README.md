@@ -1,7 +1,6 @@
 # Keyboard-Shortcuts
 Keyboard shortcuts
 
- 
 CTRL+A. . . . . . . . . . . . . . . . . Select All
 
 CTRL+C. . . . . . . . . . . . . . . . . Copy
